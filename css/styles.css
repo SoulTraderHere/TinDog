@@ -178,18 +178,19 @@ p{
 .ctah3{
     font-family: 'Montserrat', sans-serif;
     padding: 5% 0 2%;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 
 #footer{
 
     text-align: center;
+    padding: 3% 0;
 }
 
 
 .fl{
-    padding: 5% 1.5% 2%;
+    padding: 10% 1.5% 4%;
 }
 
 .fl:hover{
